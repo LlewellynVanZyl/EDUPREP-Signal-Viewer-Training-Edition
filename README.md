@@ -4,6 +4,10 @@ Welcome to the **EDUPREP Signal Viewer – Introductory Training Package**.
 
 The EDUPREP Signal Viewer is an electronic signal analysis tool designed to assist with the examination, measurement and interpretation of electronic circuit simulation data.
 
+### Download the Application
+
+Download the latest version of the EDUPREP Signal Viewer from the Releases section.
+
 ### Package Contents
 
 This introductory package includes:
