@@ -42,7 +42,9 @@ The **Function Window** located at the top of the EDUPREP Signal Viewer allows y
 #### How to Use
 1. Type your function expression into the Function window.
 2. Click the **Add** button.
-3. Click the **Plot Selected** button to display the results in the **Function Results window**.
+3. Select newly added function node in the **Node window**.
+4. Click the **Plot Selected** button to display the results in the **Function Results window**.
+5. To remove the added node from the **Node window**, select it and click the **Delete Selected Function** button.
 
 #### Supported Functions & Examples
 
