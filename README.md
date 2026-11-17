@@ -35,6 +35,24 @@ The demonstration exercise introduces candidates to:
 5. Follow the instructions in the Candidate Assessment Brief.
 6. Use the schematic diagram provided in the assessment brief as a reference.
 
+### Using the Function Window
+
+The **Function Window** located at the top of the EDUPREP Signal Viewer allows you to perform measurements and mathematical evaluations on your loaded signals.
+
+#### How to Use
+1. Type your function expression into the Function window.
+2. Click the **Add** button.
+3. Click the **Plot Selected** button to display the results in the **Function Results window**.
+
+#### Supported Functions & Examples
+
+* **`ave()`** — Computes the average value (useful for finding the **DC offset**).
+  * *Example:* `ave(V(in))` calculates the DC value of the node named `in`.
+* **`min()`** — Identifies the minimum value of a signal.
+  * *Example:* `min(V(in))` finds the lowest voltage value at node `in`.
+* **`max()`** — Identifies the maximum value of a signal.
+  * *Example:* `max(V(in))` finds the peak voltage value at node `in`.
+
 ### Welcome to EDUPREP!
 
 *Developing practical skills through applied technical assessment.*
